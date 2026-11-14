@@ -1,0 +1,21 @@
+# Python 3.13
+# Install with: pip install -r requirements.txt
+
+# Deep learning
+torch
+torchvision
+
+# Data
+medmnist
+numpy
+pillow
+
+# Metrics and plots
+scikit-learn
+matplotlib
+
+# App
+gradio
+
+# Notebook
+jupyter

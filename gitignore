@@ -1,0 +1,7 @@
+# dataset (downloads automatically)
+data/
+# generated files
+examples/
+__pycache__/
+.ipynb_checkpoints/
+*.npz
